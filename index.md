@@ -3,9 +3,10 @@
 This is the homepage for my GitHub Pages site.
 
 ## About Me
-- **Name**: Your Name
+- **Name**: incheol song
+  
 - **Hobbies**: Coding, Reading, Traveling
-- **Contact**: incheol99@yahoo.com(mailto:your-email@example.com)
+- **Contact**: incheol99@yahoo.com
 
 ## Projects
 - [Project 1](https://github.com/songdosa/project1)
